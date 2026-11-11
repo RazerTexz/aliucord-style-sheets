@@ -74,9 +74,3 @@ Since JSON values for custom properties are read as strings, you must format the
     "setElevation": "4.0f"
 }
 ```
-
-## How to Submit a Style
-Fill out the form [here](https://github.com/RAutobot/test/issues/new?template=submit_style.yml) and submit your issue.
-
-## How to Update a Style
-Fill out the form [here](https://github.com/RAutobot/test/issues/new?template=update_style.yml) and submit your issue.
